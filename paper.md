@@ -6,7 +6,7 @@
 
 ## Theory
 
-## Experiment
+## Experiments
 
 ## Results
 
